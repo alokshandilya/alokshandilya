@@ -26,14 +26,12 @@ Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, My
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alokshandilya&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"
   <a href="#"><img src="https://streak-stats.demolab.com/?user=alokshandilya&theme=github_dark&date_format=M%20j[%2C%20Y]&hide_border=true&card_width=420px"></a>
-  
-  <!--<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alokshandilya&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true" /></a>-->
-</p>
+</p> -->
 
 ## 🔗 Connect with me
 
