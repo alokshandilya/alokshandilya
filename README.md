@@ -33,7 +33,7 @@ Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, My
   <a href="#"><img src="https://streak-stats.demolab.com/?user=alokshandilya&theme=github_dark&date_format=M%20j[%2C%20Y]&hide_border=true&card_width=420px"></a>
 </p> -->
 
-## 🔗 Connect with me
+<!-- ## 🔗 Connect with me
 
 <p align="left">
    <a href="https://linkedin.com/in/alokshandilya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokshandilya" height="30" width="30" /></a>&ensp;
@@ -42,7 +42,7 @@ Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, My
    <a href="https://www.leetcode.com/alokshandilya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokshandilya" height="30" width="30" /></a>&ensp;
    <a href="https://auth.geeksforgeeks.org/user/alokshandilya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokshandilya" height="30" width="40" /></a>&ensp;
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A" alt="Typing SVG" /></a> -->
 
 <!-- ## 💵 Support Me
 
