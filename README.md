@@ -2,12 +2,16 @@
 
 <!--![image](https://github.com/alokshandilya/alokshandilya/assets/77057272/0575d039-e781-4ccb-b12b-7fe74201bce4)-->
 
+<!--
 Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, MySQL and MongoDB, holding a Master of Computer Applications and proficient in developing interactive platforms and RESTful APIs, also a Machine learning enthusiast.
+-->
 
+<!--
 ## 💻 Skills
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,vim,git,github,postgresql,mysql,docker,postman,arch,pycharm,linux,vscode)](https://skillicons.dev) -->
 
+<!--
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009486?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -25,6 +29,7 @@ Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, My
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+-->
 
 <!-- ## 📊 GitHub Stats
 
@@ -50,7 +55,8 @@ Python Backend Engineer with expertise in Django, FastAPI, Flask, PostgreSQL, My
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a> -->
 
+<!--
 ## 📈 Profile Statistics
-
+-->
 <a href="https://github.com/alokshandilya"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=alokshandilya&color=red&style=for-the-badge"></a>
 <br />
